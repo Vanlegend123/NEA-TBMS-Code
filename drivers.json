@@ -1,0 +1,62 @@
+[
+    {
+        "Firstname": "Vanavan",
+        "Lastname": "Rajeswaran",
+        "Email": "vr@gmail.com",
+        "Password": "6fb963e6018f902ccb7bd77159af395ea528a1f920db7fd9a318e099c6e07b01",
+        "Phone Number": "07868158679",
+        "Street": "Williams HQ",
+        "City": "Wantage",
+        "Postcode": "OX12 0DQ",
+        "Car Reg": "GJ18 DZF",
+        "Car Model": "Vlowkswagen Sharan",
+        "Taxi Type": "5-6 Passenger",
+        "Wallet": 543.23,
+        "driverID": 1
+    },
+    {
+        "Firstname": "Lewis",
+        "Lastname": "Hamilton",
+        "Email": "lh44@gmail.com",
+        "Password": "385c73a93438e1125ae181945efb127a6e10d7fd3070bb0fe743bd06bbcd5372",
+        "Phone Number": "07440440440",
+        "Street": "1 Lauda Drive",
+        "City": "Brackley",
+        "Postcode": "NN13 7BD",
+        "Car Reg": "LH72 HAM",
+        "Car Model": "Mercedes Vito",
+        "Taxi Type": "7-8 Passenger",
+        "Wallet": 799.1,
+        "driverID": 2
+    },
+    {
+        "Firstname": "Max",
+        "Lastname": "RVerstappen",
+        "Email": "mv1@gmail.com",
+        "Password": "1acb5d2d36e5e9ab98d528c3ec11c7e1135010af4e24d0b2dc218c80e64ed36f",
+        "Phone Number": "07330330330",
+        "Street": "2 Bradbourne Drive",
+        "City": "Milton Keynes",
+        "Postcode": "MK7 8AT",
+        "Car Reg": "MV71 MAX",
+        "Car Model": "Mercedes E Class",
+        "Taxi Type": "1-4 Passenger",
+        "Wallet": 1201.0,
+        "driverID": 3
+    },
+    {
+        "Firstname": "Fernando",
+        "Lastname": "Alonso",
+        "Email": "fa14@gmail.com",
+        "Password": "01ce86a2cd337b54836bd6f6132708efa0772c341787a4397019ae66f68c501a",
+        "Phone Number": "07140140140",
+        "Street": "Dadford Road",
+        "City": "Towcester",
+        "Postcode": "NN12 8TJ",
+        "Car Reg": "FA69 FER",
+        "Car Model": "Toyota Prius",
+        "Taxi Type": "1-4 Passenger",
+        "Wallet": 1.78,
+        "driverID": 4
+    }
+]
