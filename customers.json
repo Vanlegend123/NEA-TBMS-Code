@@ -1,0 +1,57 @@
+[
+    {
+        "Firstname": "Joey",
+        "Lastname": "Smith",
+        "Email": "vr@gmail.com",
+        "Password": "e34696fe0e9792446e673c6360ed9178cfe776dcfbcf9ac1c0602bbfd1b63ad3",
+        "Phone Number": "07456123789",
+        "Street": "48 Collins Avenue",
+        "City": "London",
+        "Postcode": "HA9 9BX",
+        "custID": 1
+    },
+    {
+        "Firstname": "Mylo",
+        "Lastname": "Bakermans",
+        "Email": "mylo@gmail.com",
+        "Password": "a1b9e6617dde9ffec0ab3fb760b0ec433200ec3a1eb3f42582bfd43684090d80",
+        "Phone Number": "07713838714",
+        "Street": "69 Cannon Lane",
+        "City": "London",
+        "Postcode": "HA5 1HP",
+        "custID": 4
+    },
+    {
+        "Firstname": "awad",
+        "Lastname": "essa",
+        "Email": "awadessa@gmail.com",
+        "Password": "13004d8331d779808a2336d46b3553d1594229e2bb696a8e9e14554d82a648da",
+        "Phone Number": "07510023641",
+        "Street": "Briar Road",
+        "City": "London",
+        "Postcode": "HA3 0DR",
+        "custID": 6
+    },
+    {
+        "Firstname": "adam",
+        "Lastname": "khan",
+        "Email": "test@account.co.uk",
+        "Password": "a0f3285b07c26c0dcd2191447f391170d06035e8d57e31a048ba87074f3a9a15",
+        "Phone Number": "07395461534",
+        "Street": "street",
+        "City": "london",
+        "Postcode": "ha49ey",
+        "custID": 7
+    },
+    {
+        "Firstname": "Lewis",
+        "Lastname": "Hamilton",
+        "Email": "lh44@gmail.com",
+        "Password": "26cdeecb6f3b087dca556f4013c4601515b0ea201d1d128b4108a6a2819ce981",
+        "Phone Number": "07123456789",
+        "Street": "48 Formula Ave",
+        "City": "Silverstone",
+        "Postcode": "S14 4nn",
+        "custID": 8
+    }
+]
