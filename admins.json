@@ -4,21 +4,10 @@
         "Lastname": "Smith",
         "Email": "vr@gmail.com",
         "Password": "e34696fe0e9792446e673c6360ed9178cfe776dcfbcf9ac1c0602bbfd1b63ad3",
-        "Phone Number": "07868158679",
+        "Phone Number": "07123456789",
         "Street": "Williams HQ",
         "City": "Wantage",
         "Postcode": "OX12 0DQ",
         "adminID": 1
-    },
-    {
-        "Firstname": "Mylo",
-        "Lastname": "Bakermans",
-        "Email": "mylo@gmail.com",
-        "Password": "a1b9e6617dde9ffec0ab3fb760b0ec433200ec3a1eb3f42582bfd43684090d80",
-        "Phone Number": "07712365987",
-        "Street": "69 Cannon Lane",
-        "City": "London",
-        "Postcode": "HA5 1HP",
-        "adminID": 2
     }
 ]
